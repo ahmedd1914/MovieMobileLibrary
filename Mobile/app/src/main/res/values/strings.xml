@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MobProj</string>
+
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="movie_title">Movie Title</string>
+    <string name="_1">1</string>
+    <string name="movie_author">Movie Author</string>
+    <string name="overview">Description</string>
+    <string name="movie_description">Movie Description</string>
+    <string name="delete_all">Delete All</string>
+    <string name="_99">99</string>
+    <string name="message_connection_success">Authentication successful</string>
+    <string name="message_connection_failed">Incorrect email and/or password</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="delete">Delete</string>
+</resources>
